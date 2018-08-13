@@ -1,8 +1,8 @@
-##Aplicación del clima - Ejemplo usando Node
+## Aplicación del clima - Ejemplo usando Node
 
 Ejecutar ```npm install``` para generar la carpeta node_modules/
 
-###Ejemplo:
+### Ejemplo:
 ```
 node app -d "Lima, Perú"
 ```
